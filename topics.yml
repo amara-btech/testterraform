@@ -11,4 +11,5 @@ terraform state list
 terraform destroy -target resource-name
 
 test init
-feature2
+feture1
+

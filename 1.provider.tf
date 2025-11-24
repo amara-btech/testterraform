@@ -25,4 +25,4 @@ provider "azurerm" {
 
 }
 #added for testing
-feature2
+feture1
